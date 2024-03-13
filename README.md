@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rahulsharma869
+- 👋 Hi, I’m Rahul Sharma
 - 👀 I’m interested in Artificial intelligence and Machine learning.
 - 🌱 I’m currently learning Data Science and ML.
 - 💞️ I’m looking to collaborate on AI related projects
-- 📫 How to reach me through Linkedin->https://www.linkedin.com/in/rahulsharma869/
+- 📫 How to reach me through Linkedin->https://www.linkedin.com/in/rahulsharmavishwakarma/
 - 📫 Hackerrank - https://www.hackerrank.com/rahulsharma869
 
 <!---
